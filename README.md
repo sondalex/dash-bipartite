@@ -11,7 +11,7 @@ Dash-Bipartite contains tools to create two columns graphs and bipartite graphs 
 Since there's no package hosted on PyPi package yet, the package can be installed from source this way:
 
 ```console
-(venv) [user@deskop ~] pip install --user git+https://github.com/sondalex/dash-bipartite.git@<github-release-version/sha commit id>
+(venv) [user@deskop ~]$ pip install --user git+https://github.com/sondalex/dash-bipartite.git@<github-release-version/sha commit id>
 ```
 
 
