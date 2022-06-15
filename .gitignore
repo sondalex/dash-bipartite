@@ -1,0 +1,6 @@
+__TODO.md
+build/
+*.egg-info
+*.egg
+venv/
+__pycache__/
