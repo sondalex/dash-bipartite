@@ -49,12 +49,12 @@ for more detailed information.
 
 ## Demo
 
-To see it in action a demo is available in the repository:
+To see it in action, a demo is available in the repository:
 https://github.com/sondalex/dash-bipartite/blob/master/demo/app-bipartite-graph.py
 
 To run the demo:
 
-Install the package, clone the repository then:
+Install the package, clone the repository and run:
 
 ```console
 (venv) [user@desktop ~]$ cd <path_to_repository>
